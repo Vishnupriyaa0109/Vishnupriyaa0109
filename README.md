@@ -17,7 +17,7 @@
 
 ```typescript
 const vishnupriya = {
-  title: "Aspiring AI/ML Engineer",
+  title: "AI/ML Engineer",
   currentlyStudying: "M.Sc. Data Science @ Alliance University (GPA: 8.6/10)",
   stack: {
     languages: ["Python", "C", "SQL"],
